@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+}
+
+.container h1 {
+    color: red;
+}
+
+.container ul li {
+    color: white;
+    font-size: 20px;
+}
